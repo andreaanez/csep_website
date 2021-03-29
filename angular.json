@@ -55,7 +55,9 @@
               "src/assets"
             ],
             "styles": [
+              "/Users/andreaanez/Downloads/W21/CSEP/csep-site/node_modules/bulma/css/bulma.css",
               "src/styles.scss"
+  
             ],
             "scripts": []
           },
